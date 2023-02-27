@@ -30,10 +30,11 @@ body {
   .container-fluid {
       background-color: #3b3b3b;
       padding: 60px 50px;
+      text-align:;
   }
   .bg-grey {
 
-
+color:gray;
 
 
   }
@@ -191,3 +192,10 @@ background-size: cover;
   padding-left: 50px;
 padding-right: 50px;  
 }
+.col-xl-4 {width: 850px;
+height: 500px;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;}
+.col-sm-12{text-align: left;}
