@@ -21,12 +21,14 @@ body {
       font-weight: 400;
       margin-bottom: 30px;
   }  
+  /* Oberer Teil der Seite */
   .jumbotron {
       background-color: green;
       color: #fff;
       padding: 100px 25px;
       font-family: Montserrat, sans-serif;
   }
+  /* Hauptteil der Seite */
   .container-fluid {
       background-color: #3b3b3b;
       padding: 60px 50px;
@@ -56,6 +58,7 @@ color:gray;
       height: 100%;
       margin-bottom: 10px;
   }
+  /* Bilder-Karussell */
   .carousel-control.right, .carousel-control.left {
       background-image: none;
       color: #f4511e;
@@ -180,7 +183,8 @@ display:none;
 }
   }
 
-
+/* Regenwald Hintergrund */
+/* Unterer Teil der Seite */
 .regenwald {
 background-image: url(Regenwald.jpg);
 background-size: cover;
